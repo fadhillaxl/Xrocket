@@ -4,6 +4,8 @@ intall ant https://dlcdn.apache.org//ant/binaries/apache-ant-1.10.15-bin.zip
 <br>
 tambahkan ke system environment variable
 <br>
+install OpenGL yang ada Pada file
+<br>
 <br>
 command :<br>
 cd /Xrocket<br>
